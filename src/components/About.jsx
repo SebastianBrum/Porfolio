@@ -1,5 +1,5 @@
 export default function About({id}){
-    const technologies = ['HTML', 'CSS', 'TailwindCSS', 'React', 'JavaScript', 'Python'];
+    const technologies = ['HTML', 'CSS', 'TailwindCSS', 'React', 'JavaScript', "Python", "C#"];
 
     return(
         <section className="card" id={id}>
